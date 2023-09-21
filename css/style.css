@@ -185,3 +185,161 @@ body {
 .text-1 span {
 	font-size: 17px;
 }
+/* level area style end hare*/
+.prestige-content h4 {
+	color: #FFF;
+	font-family: Berlin Sans FB Demi;
+	font-size: 20px;
+	font-weight: 700;
+}
+.prestige-content p {
+	color: #FFF;
+	font-family: Inter;
+}
+.prestige-content span {
+	font-size: 17px;
+	font-weight: 800;
+}
+.prestige-master h4 {
+	margin: 0;
+	color: #FF7A00;
+	font-family: Inter;
+	font-size: 9px;
+	font-weight: 700;
+	padding-top: 10px;
+}
+.prestige-master p {
+	color: #A11515;
+	font-family: Inter;
+	font-size: 11px;
+	font-weight: 700;
+}
+.prestige-master img {
+	width: 100%;
+}
+/*prestige-master area style end hare*/
+.line-1 {
+	max-width: 90%;
+	height: 2px;
+	stroke-width: 2px;
+	background: #A11515;
+	position: relative;
+}
+
+.experience-text h4 {
+	color: #FFF;
+	font-family: Berlin Sans FB Demi;
+	font-size: 41px;
+	font-weight: 700;
+}
+.experience-text p {
+	color: #FFF;
+	font-family: Inter;
+	font-size: 16px;
+	line-height: 150%;
+}
+.logo-item img {
+	width: 100%;
+	padding: 0;
+	margin: 0;
+}
+.logo-item h5 {
+	margin-top: -15px;
+	color: #6C71DF;
+	font-family: Berlin Sans FB Demi;
+	text-transform: uppercase;
+}
+
+/*experience-area style end hare*/
+/*Milestones area style start hare*/
+.milestones-logo {
+	background: #1e1e1e;
+}
+.logo-item2 p {
+	color: #FFF;
+	font-family: Inter;
+	font-size: 17px;
+}
+.milestones-content h4 {
+	color: #FFF;
+	font-family: Berlin Sans FB Demi;
+	font-size: 20px;
+}
+.milestones-content {
+	color: #FFF;
+	font-family: Inter;
+	font-size: 20px;
+}
+.milestones-content span {
+	font-weight: 800;
+	font-size: 21px;
+}
+/*Milestones area style end hare*/
+/*section-content area style start hare*/
+
+.section-sr-item,
+.section-sr-item-2 {
+	background: #1e1e1e;
+	position: relative;
+}
+.section-sr-item {
+	height: 54vh;
+}
+.section-sr-item,
+.section-sr-item-2 p {
+	color: #FFF;
+	font-family: Inter;
+	font-size: 17px;
+	line-height: 190%;
+	padding-left: 10px;
+	padding-top: 10px;
+}
+.section-sr-item span {
+	font-size: 18px;
+	font-weight: 800;
+}
+.title {
+	background: #CB0404;
+	display: inline-block;
+	padding: 5px 10px;
+	border-radius: 5px;
+	position: absolute;
+	top: -20px;
+	left: 0px;
+}
+.title h4 {
+	color: #FFF;
+	font-family: Berlin Sans FB Demi;
+	font-size: 20px;
+	text-transform: uppercase;
+	margin: 0;
+}
+.text-color-1 {
+	color: #953BAA;
+}
+.text-color-2 {
+	color: #D06322;
+}
+.section-content {
+	border-bottom: 1px solid #CB0404;
+}
+/*section-content area style end hare*/
+.punch-text h4 {
+	color: #fff;
+	font-family: Berlin Sans FB Demi;
+	font-size: 40px;
+}
+.punch-text p {
+	color: #FFF;
+	font-family: Inter;
+	line-height: 190%;
+}
+.punch-logo img {
+	width: 100%;
+	padding: 20px;
+}
+.color-text p {
+	display: inline-block;
+	padding-right: 10px;
+	margin-left: auto;
+}
