@@ -1,0 +1,187 @@
+body {
+	background: #151515;
+}
+/*header-area style start hare*/
+.header-area {
+	background: #000;
+}
+.header-dwn-btn {
+	margin-right: 30px;
+	background: #1E1E1E;
+	padding: 5px 10px;
+	border-radius: 5px;
+}
+.header-dwn-btn p {
+	display: inline-block;
+	color: #fff;
+	padding-left: 5px;
+	font-family: Inter;
+	margin: auto;
+
+}
+.discord-join {
+	margin-right: 20px;
+	background: #1E1E1E;
+	padding: 5px 10px;
+	border-radius: 5px;
+}
+.discord-join p {
+	display: inline-block;
+	color: #fff;
+	font-family: inter;
+	padding-left: 5px;
+	margin: auto;
+}
+/*header style end hare*/
+/*feature area style start hare*/
+.feature-area {
+	background: url(../images/feature-area.png) no-repeat;
+	background-size: cover;
+	height: 100vh;
+	border-bottom: 2px solid #BD0404;
+}
+
+.feature-item h3 {
+	color: #BE0404;
+	font-family: Berlin Sans FB Demi;
+	font-weight: 700;
+	font-size: 30px;
+}
+.feature-item h2 {
+	color: #fff;
+	font-family: Berlin Sans FB Demi;
+	font-size: 40px;
+	font-weight: 700;
+}
+.feature-item p {
+	color: #FFF;
+	font-family: Inter;
+	font-size: 17px;
+	font-weight: 400;
+	line-height: 170%; 
+	padding: 20px 0px;
+}
+.sr-item1 {
+	width: 195px;
+	height: 48px;
+	border-radius: 5px;
+	background: #A11515;
+}
+.sr-item2 {
+	width: 140px;
+	height: 48px;
+	border-radius: 5px;
+	background: #A11515;
+}
+.sr-item1 img,
+.sr-item2 img {
+	display: inline-block;
+	margin-bottom: auto;
+}
+.sr-item1 p,
+.sr-item2 p {
+	display: inline-block;
+	padding: 0;
+	
+}
+.sr-items a{
+	display: inline-block;
+}
+.sr-items >p {
+	font-size: 20px;
+	padding: 5px 10px;
+}
+.span-1 {
+	display: inline-block;
+	width: 40%;
+	height: 1px;
+	background: #fff;
+	margin-bottom: 5px;
+}
+.side-img img {
+	width: 90%;
+}
+.line i {
+	padding: 5px;
+	margin-top: 10px;
+	font-size: 20px;
+	color: #fff;
+}
+/*feature area style end hare*/
+
+.desktop {
+	background: #1E1E1E;
+	margin-top: 50px;
+	height: 250px;
+	overflow: hidden;
+}
+.desktop-cnt {
+	padding-top: 20px;
+	padding-left: 20px;
+}
+.desktop-cnt h3 {
+	color: #fff;
+	font-family: Berlin Sans FB Demi;
+	font-size: 42px;
+	font-weight: 700;
+}
+.text-red {
+	color: #CB0404;
+}
+.desktop-cnt p {
+	font-family: Inter;
+	padding: 0;
+}
+.desktop-img img {
+	width: 75%;
+	margin-top: -30px;
+	margin-left: 20px;
+}
+
+/* desktop style end hare*/
+/* level area style start hare*/
+.level-area {
+	padding-top: 60px;
+}
+.level-title {
+	color: #FFF;
+	font-family: Berlin Sans FB Demi;
+	font-size: 45px;
+}
+.level-content {
+	background: #1E1E1E;
+	position: relative;
+}
+.rectagle {
+	width: 27px;
+	height: 27px;
+	background: #CB0404;
+	position: absolute;
+	top: -15px;
+	left: -15px;
+}
+.level-content p {
+	color: #FFF;
+	text-align: center;
+	font-family: Berlin Sans FB Demi;
+	font-size: 32px;
+	padding-top: 10px;
+}
+.lvl-items p {
+	color: #FFF;
+	font-family: Inter;
+	font-size: 12px;
+}
+.text-1 h4 {
+	color: #FFF;
+	font-family: Berlin Sans FB Demi;
+	font-size: 20px;
+}
+.text-1 p {
+	color: #FFF;
+	font-family: Inter;
+	font-weight: 400;
+}
+.text-1 span {
+	font-size: 17px;
+}
