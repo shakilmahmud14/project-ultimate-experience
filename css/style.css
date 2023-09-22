@@ -343,3 +343,85 @@ body {
 	padding-right: 10px;
 	margin-left: auto;
 }
+.text-color-3 {
+	color: #FF85DE;
+}
+.text-color-4 {
+	color: #22EAA6;
+}
+.color-text {
+	padding-bottom: 40px;
+
+}
+.border-line {
+	width: 90%;
+	height: 10px;
+	border-top: 2px solid #C90404;
+	border-right: 2px solid #C90404;
+}
+/* section punch area style end hare*/
+/*wapon level style start hare*/
+.wapon-level-content {
+	padding-top: 40px;
+}
+.wapon-level-content h4 {
+	color: #FFF;
+	font-family: Berlin Sans FB Demi;
+	font-size: 46px;
+}
+.wapon-level-content p {
+	padding-top: 20px;
+	color: #FFF;
+	font-family: Inter;
+	font-size: 16px;
+	line-height: 190%;
+}
+.awsome-camos {
+	padding: 20px;
+	background: #1e1e1e;
+	margin-top: 50px;
+}
+.awsome-camos h4 {
+	color: #FFF;
+	font-family: Berlin Sans FB Demi;
+	padding-top: 20px;
+}
+.camos-img img {
+	width: 100%;
+	padding-right: 5px;
+}
+/*wapon level style end hare*/
+.seection-stats {
+	padding-top: 40px;
+}
+.stats-content {
+	background: #1e1e1e;
+}
+.stats-text p {
+	color: #FFF;
+	font-family: Inter;
+	font-size: 15px;
+	line-height: 150%;
+}
+.chart-img {
+	height: 75vh;
+	display: flex;
+	align-items: center;
+}
+.stats-text2 p {
+	color: #FFF;
+	font-family: Inter;
+	font-size: 14px;
+	line-height: 140%;
+}
+.stats-items h4 {
+	color: #fff;
+	font-family: Berlin Sans FB Demi;
+	font-size: 46px;
+}
+.stats-items p {
+	color: #FFF;
+	font-family: Inter;
+	line-height: 190%;
+	padding-top: 20px;
+}
