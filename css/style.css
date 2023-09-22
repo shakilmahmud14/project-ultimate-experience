@@ -1,6 +1,7 @@
 body {
 	background: #151515;
 }
+
 /*header-area style start hare*/
 .header-area {
 	background: #000;
@@ -363,6 +364,9 @@ body {
 /*wapon level style start hare*/
 .wapon-level-content {
 	padding-top: 40px;
+}
+.wapon-images {
+	text-align: right;
 }
 .wapon-level-content h4 {
 	color: #FFF;

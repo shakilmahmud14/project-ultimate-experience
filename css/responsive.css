@@ -9,6 +9,33 @@
 	.logo-item img {
 	width: 90%;
 	}
+	.camos-img img {
+	width: 100%;
+	padding-right: 0px;
+	}
+	.ume-title {
+		left: 10px;
+	}
+	.uem-park-img {
+		text-align: center;
+	}
+	.wapon-images {
+	text-align: center;
+	}
+	.wapon-images img {
+		width: 100%;
+	}
 	
-
+	.m-ds-n {
+		display: none;
+	}
+	.ume-text,
+	.ume-title {
+		margin-top: 25px;
+	}
+	.section-sr-item,
+	.section-sr-item-2,
+	.title {
+		margin-top: 25px;
+	}
 }
