@@ -391,6 +391,9 @@ body {
 	padding-right: 5px;
 }
 /*wapon level style end hare*/
+
+/*seection-stats style hare*/
+
 .seection-stats {
 	padding-top: 40px;
 }
@@ -425,3 +428,89 @@ body {
 	line-height: 190%;
 	padding-top: 20px;
 }
+/*seection-stats style end hare*/
+/*section deployment style start hare*/
+
+.deployment-content {
+	padding-top: 30px;
+}
+.deployment-content h4 {
+	color: #FFF;
+	font-family: Berlin Sans FB Demi;
+	font-size: 32px;
+	text-transform: uppercase;
+}
+.deployment-content,
+.deployment-img p {
+	color: #FFF;
+	font-family: Inter;
+	line-height: 150%;
+	padding-top: 10px;
+	padding-bottom: 5px;
+}
+.deployment-img img {
+	width: 100%;
+}
+.deployment-img {
+	padding-top: 30px;
+}
+.dep-text {
+	padding-top: 80px;
+}
+.deployment-img h4 {
+	color: #FFF;
+	font-family: Berlin Sans FB Demi;
+	font-size: 25px;
+	text-transform: uppercase;
+}
+/*deployment area style end hare*/
+/*uem park area style start hare*/
+
+.uem-park-content h4 {
+	color: #FFF;
+	font-family: Berlin Sans FB Demi;
+	font-size: 40px;
+}
+.uem-park-content h3 {
+	color: #FFF;
+	font-family: Berlin Sans FB Demi;
+	font-size: 20px;
+	text-transform: uppercase;
+	padding-top: 20px;
+}
+.uem-park-content p {
+	color: #FFF;
+	font-family: Inter;
+	line-height: 190%;
+}
+.uem-park-img img {
+	width: 80%;
+}
+.ume-text {
+	background: #1e1e1e;
+	padding: 10px;
+	position: relative;
+}
+.ume-text p {
+	color: #FFF;
+	font-family: Inter;
+	line-height: 190%;
+	padding: 10px;
+}
+.ume-title {
+	background: #A20505;
+	padding: 5px 20px;
+	display: inline-block;
+	border-radius: 10px;
+	position: absolute;
+	top: -17px;
+	left: -3px;
+}
+.ume-title h4 {
+	color: #FFF;
+	font-family: Berlin Sans FB Demi;
+	font-size: 18px;
+	margin: auto;
+	text-transform: uppercase;
+}
+/*uem-park area style end hare*/

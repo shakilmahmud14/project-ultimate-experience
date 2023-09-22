@@ -2,5 +2,13 @@
 	.desktop {
 		height: 70vh;
 	}
+/*	experience-area resposive hare*/
+	.logo-item h5 {
+		font-size: 10px;
+	}
+	.logo-item img {
+	width: 90%;
+	}
+	
 
 }
