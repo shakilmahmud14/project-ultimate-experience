@@ -1,6 +1,12 @@
 body {
 	background: #151515;
 }
+@font-face {
+    font-family: 'Berlin Sans FB Demi';
+    font-style: normal;
+    font-weight: normal;
+    src: url(../fonts/BRLNSDB.woff) format('woff');
+    }
 
 /*header-area style start hare*/
 .header-area {
