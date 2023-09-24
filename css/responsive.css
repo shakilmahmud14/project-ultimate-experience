@@ -38,4 +38,21 @@
 	.title {
 		margin-top: 25px;
 	}
+	.gamemode {
+		padding-top: 10px;
+	}
+	.copyright {
+	display: block;
+	text-align: center;
+	}
+	.footer-btn {
+		display: block;
+		text-align: center;
+	}
+	.header-dwn-btn {
+		display: inline-block;
+	}
+	.discord-join {
+		display: inline-block;
+	}
 }

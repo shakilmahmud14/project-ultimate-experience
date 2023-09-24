@@ -518,3 +518,134 @@ body {
 	text-transform: uppercase;
 }
 /*uem-park area style end hare*/
+/*sattings area style hare*/
+.sattings-area {
+	border-top: 2px solid #CB0404;
+}
+.mutator-sattings {
+	padding: 20px;
+	background: #1e1e1e;
+}
+.mutator-sattings h4 {
+	color: #FFF;
+	font-family: Berlin Sans FB Demi;
+	text-transform: uppercase;
+	text-align: center;
+}
+.mutator img {
+	width: 100%;
+}
+.mutator {
+	color: #FFF;
+	font-family: Inter;
+}
+.mutator-sattings {
+	position: relative;
+}
+.rectagle1 {
+	width: 27px;
+	height: 27px;
+	background: #CB0404;
+	position: absolute;
+	top: -20px;
+	right: 0px;
+}
+.gamemode {
+	padding-left: 20px;
+}
+.gamemode h4 {
+	color: #FFF;
+	font-family: Berlin Sans FB Demi;
+}
+.gamemode p {
+	padding-top: 20px;
+	color: #FFF;
+	font-family: Inter;
+	line-height: 190%;
+}
+/*sattings area style end hare*/
+/*difficulty style start hare*/
+.difficulty h4 {
+	color: #FFF;
+	font-family: Berlin Sans FB Demi;
+	font-size: 32px;
+}
+.difficulty p {
+	padding-top: 20px;
+	color: #FFF;
+	font-family: Inter;
+	font-size: 16px;
+	line-height: 30px;
+}
+.difficulty-img {
+	background: #1e1e1e;
+	padding: 20px;
+}
+.difficulty-img h4 {
+	text-transform: uppercase;
+	text-align: center;
+	color: #fff;
+	font-family: Berlin Sans FB Demi;
+}
+.difficutes img {
+	width: 100%;
+}
+.difficutes p {
+	color: #FFF;
+	text-align: center;
+	font-family: Inter;
+}
+/*difficulty style end hare*/
+/*much more area style hare*/
+.much-more-content h4 {
+	color: #FFF;
+	font-family: Berlin Sans FB Demi;
+	font-size: 40px;
+}
+.much-more-content p {
+	color: #FFF;
+	font-family: Inter;
+	line-height: 30px;
+}
+.more-img img {
+	width: 100%;
+	padding-top: 20px;
+}
+/*much-more style end hare*/
+/*playing area style start hare*/
+
+.playing-content {
+	background: #1e1e1e;
+}
+.playing-img img {
+	width: 100%;
+}
+.playing-text h4 {
+	color: #fff;
+	font-family: Berlin Sans FB Demi;
+	font-size: 40px;
+	text-transform: uppercase;
+	padding-top: 20px;
+}
+.playing-text > p {
+	color: #fff;
+	padding-top: 20px;
+	font-family: Inter;
+
+}
+/*playing area style end hare*/
+/*footer area start hare */
+.fooder-area {
+	background: #000;
+}
+.fooder-area p {
+	display: inline-block;
+}
+.copyright {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+.footer-btn {
+	display: flex;
+}
